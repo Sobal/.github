@@ -1,7 +1,6 @@
 # Welcome to Sobal
 This is an open source project based on the Balancer protocol.
 
-### Official Links
 | Link | Description |
 |--|--|
 | https://www.sobal.fi | Homepage |
