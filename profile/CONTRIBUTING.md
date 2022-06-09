@@ -9,7 +9,7 @@ In this guide you will get an overview of the contribution workflow from opening
 
 ## New contributor guide
 
-To get an overview of a project, please check the read the README.md file in the relevant repo that you're interested to contribute in. 
+To get an overview of a project, please check the read the `README.md` file in the relevant repo that you're interested to contribute in. 
 
 To get a list of our repos, please visit [https://github.com/orgs/Sobal/repositories](https://github.com/orgs/Sobal/repositories)
 
