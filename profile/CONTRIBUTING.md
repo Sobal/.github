@@ -1,7 +1,7 @@
 
 # Contributors guide
 
-Thank you for investing your time in contributing to our project! Frequent contributors will be listed on [https://docs.sobal.fi/sobal-docs/getting-involved/credits](https://docs.sobal.fi/sobal-docs/getting-involved/credits) :sparkles:. 
+Thank you for investing your time in contributing to our project! Frequent contributors will be listed on [our Credits page](https://docs.sobal.fi/sobal-docs/getting-involved/credits) :sparkles:. 
 
 Read our [Code of Conduct](./CODE_OF_CONDUCT.md) to keep our community approachable and respectable.
 
