@@ -13,6 +13,8 @@ To get an overview of a project, please check the read the `README.md` file in t
 
 To get a list of our repos, please visit [https://github.com/orgs/Sobal/repositories](https://github.com/orgs/Sobal/repositories)
 
+To get a list of open issues, please visit our [contribute hub](https://contribute.sobal.fi/).
+
 ## Getting started
 
 Below is our guidelines for contributing in our repos.
