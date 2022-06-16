@@ -1,7 +1,7 @@
 
 # Contributors guide
 
-Thank you for investing your time in contributing to our project! Frequent contributors will be listed on [our Credits page](https://docs.sobal.fi/sobal-docs/getting-involved/credits) :sparkles:. 
+Thank you for investing your time in contributing to our project! Frequent contributors will be listed on [our Credits page](https://docs.sobal.fi/getting-involved/credits) :sparkles:. 
 
 Read our [Code of Conduct](./CODE_OF_CONDUCT.md) to keep our community approachable and respectable.
 
@@ -95,6 +95,6 @@ Once you submit your PR, a team member will review your proposal. We may ask que
 
 Congratulations :tada::tada: The Sobal team thanks you :sparkles:. 
 
-Once your PR is merged, your contributions will be publicly visible. Frequent contributors will be added to our [Credits page](https://docs.sobal.fi/sobal-docs/getting-involved/credits).
+Once your PR is merged, your contributions will be publicly visible. Frequent contributors will be added to our [Credits page](https://docs.sobal.fi/sobal-docs/getting-involved).
 
 Now that you are part of the Sobal community, see how else you can [contribute to the project](https://contribute.sobal.fi/).
