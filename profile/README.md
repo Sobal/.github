@@ -6,6 +6,7 @@ This is an open source project based on the Balancer protocol.
 | https://www.sobal.fi | Homepage |
 | https://contribute.sobal.fi | Contribute Hub|
 |https://docs.sobal.fi | Product Documentation|
+|https://discord.sobal.fi | Discord|
 
 ## Contributing
 
