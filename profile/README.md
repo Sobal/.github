@@ -1,5 +1,5 @@
 # Welcome to Sobal
-This is an open source project based on the Balancer protocol.
+This is an open source project based on the Balancer V2 protocol.
 
 | Link | Description |
 |--|--|
